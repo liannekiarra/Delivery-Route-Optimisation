@@ -1,0 +1,15 @@
+University project - Data Structures and Algorithms
+Graph Representation and Graph Traversal - Delivery Route Optimisation
+We were asked to use Breadth First Search or Depth First Search for graph traversals.
+Other algorithms were not part of the original project but I will be adding other algorithms that could find the shortest path
+for graph traversals.
+
+The project invovles:
+Setting up default graph - a graph representation of a default graph that contains named locations/node that are already connected with 
+each other.
+
+Adding New Locations - Functionality to add new locations into the default graoh and connecting them to existing nodes
+Deleting Routes - Removing the edges that connec the 2 nodes to eliminate a route in the graph represenation
+Adding new Route - Adding routes between 2 different nodes.
+Deleting Locations - Functionality to remove an existing location/ node in the matrix
+
